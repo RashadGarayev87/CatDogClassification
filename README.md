@@ -1,5 +1,5 @@
 
-#HOG 
+HOG 
 ## (Histogram of Oriented Gradients)
 
 
