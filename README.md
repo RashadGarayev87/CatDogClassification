@@ -3,7 +3,7 @@ HOG
 ## (Histogram of Oriented Gradients)
 
 
-"Using the HOG algorithm, extract features from images in the cat and dog dataset, apply various classification methods, and observe the results
+Using the HOG algorithm, extract features from images in the cat and dog dataset, apply various classification methods, and observe the results
 
 
 - SVM
